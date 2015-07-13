@@ -33,6 +33,8 @@ Other instructions are given bellow:
 
 To run in normal mode use in_normal.sh
 
+The input generated is saved in input file for this. graphGen generate different graphs for each run.
+
 
 
 The exe file is named a5-ece650
