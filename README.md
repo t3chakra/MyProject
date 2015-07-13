@@ -4,11 +4,11 @@ The project was made for course ECE 650. According to the instruction I submitte
 The SAT SOlver's compiled version is used in my code. SO I am pushing all folders.
 
 My code use SAT solver to find the minimum vertex cover. If you try more than 15 nodes, the SAT solver will be really slow, and might take more than 1 hour. YOu can try with both 64 and 32 bit version of the SAT solver. 
-In oder to see output only for your desired inputs: Give make command
+In oder to see output only for your desired inputs: Give $make command
 
 To run the program withut statistics:
  
- ./a5-ece650
+ $./a5-ece650
  
  
 And then type input in following format:
